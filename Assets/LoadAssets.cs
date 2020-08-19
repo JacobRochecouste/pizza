@@ -20,5 +20,6 @@ public class LoadAssets : MonoBehaviour
     void Update()
     {
         
+        
     }
 }
